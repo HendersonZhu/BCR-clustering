@@ -28,6 +28,7 @@ library("stringdist")
 library("plotly")
 library("seqinr")
 ```
+To run clustering, please refer to /scripts/CDRH3_IGHV_convergence_clustering.R
 ## *Example of outputs*
 Clusters associated to an IGHV gene between participants of different groups can be displayed:
 ![Image](/assets/CDRH3_cluster_expression_sample_1.png)

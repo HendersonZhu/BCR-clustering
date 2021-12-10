@@ -2,11 +2,11 @@
 *Method to cluster some-what biologically similar B-cell and T-cell receptors by Hamming distance in R.*
 
 ## *Introduction*
-The vast B-cell repertoire data retrieved from RNA-seq would seem extremely diverse. It is convenient when biologically similar BCR can be classified and grouped as single entities to facilitate downsteam analysis. Hereby we proposed a method to cluster BCR with some-what similar CDR H3 amino acid sequences based on Hamming distance.
+The vast B-cell and T-cell repertoire data retrieved from RNA-seq would seem extremely diverse. It is convenient when biologically similar BCR and TCR can be classified and grouped as single entities to facilitate downsteam analysis. Hereby we proposed a method to cluster BCR and TCR with some-what similar CDR H3 amino acid sequences based on Hamming distance.
 
 ## *Requirements*
 Load packages in R. Load any other metadata files required. Outputs from [VDJtools](https://github.com/mikessh/vdjtools) should be used as inputs for this clustering method (Shugay et al., 2015). \
-R packages required for BCR clustering:
+R packages required for BCR and TCR clustering:
 ```
 library("edgeR")
 library("plyr")
@@ -26,7 +26,7 @@ library("stringdist")
 library("plotly")
 library("seqinr")
 ```
-To run clustering, please refer to /scripts/CDRH3_IGHV_convergence_clustering.R
+To run clustering, please refer to files in /scripts/ directory.
 ## *Example of outputs*
 Clusters associated to an IGHV gene between participants of different groups can be displayed:
 ![Image](/assets/CDRH3_cluster_expression_sample_1.png)

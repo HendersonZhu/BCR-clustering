@@ -28,7 +28,7 @@ library("seqinr")
 ```
 To run clustering, please refer to files in /scripts/ directory.
 ## *Example of outputs*
-Clusters associated to an IGHV gene between participants of different groups can be displayed:
+Clusters associated to an IGHV gene between participants of different groups can be displayed in a variety of ways using ggplot2:
 ![Image](/assets/CDRH3_cluster_expression_sample_1.png)
 ## *Project information*
 This project is created and developed by Henderson Zhu (for BCR clustering) and Caleb Batley (for TCR clustering) under supervision of Dr. Daniel O'Connor and Dr. Irina Chelysheva at [Oxford Vaccine Group](https://www.ovg.ox.ac.uk/).

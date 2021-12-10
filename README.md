@@ -31,6 +31,6 @@ To run clustering, please refer to /scripts/CDRH3_IGHV_convergence_clustering.R
 Clusters associated to an IGHV gene between participants of different groups can be displayed:
 ![Image](/assets/CDRH3_cluster_expression_sample_1.png)
 ## *Project information*
-This project is created and developed by Henderson Zhu (for BCR) and Caleb Batley (for TCR) under the supervision of Dr. Daniel O'Connor and Dr. Irina Chelysheva.
+This project is created and developed by Henderson Zhu (for BCR clustering) and Caleb Batley (for TCR clustering) under supervision of Dr. Daniel O'Connor and Dr. Irina Chelysheva at [Oxford Vaccine Group](https://www.ovg.ox.ac.uk/).
 ## *References*
 Shugay M et al. VDJtools: Unifying Post-analysis of T Cell Receptor Repertoires. PLoS Comp Biol 2015; 11(11):e1004503-e1004503.

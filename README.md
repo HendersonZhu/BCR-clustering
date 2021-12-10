@@ -27,7 +27,7 @@ library("plotly")
 library("seqinr")
 ```
 To run clustering, please refer to files in /scripts/ directory.
-## *Example of outputs*
+## *Example of output visualisation*
 Clusters associated to an IGHV gene between participants of different groups can be displayed in a variety of ways using ggplot2:
 ![Image](/assets/CDRH3_cluster_expression_sample_1.png)
 ## *Project information*

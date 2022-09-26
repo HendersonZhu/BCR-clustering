@@ -6,7 +6,7 @@ The vast B-cell and T-cell repertoire data retrieved from RNA-seq would seem ext
 
 ## *Requirements*
 Load packages in R. Load any other metadata files required. Outputs from [VDJtools](https://github.com/mikessh/vdjtools) should be used as inputs for this clustering method (Shugay et al., 2015). \
-R packages required for BCR and TCR clustering:
+R packages recommended for BCR and TCR clustering:
 ```
 library("edgeR")
 library("plyr")

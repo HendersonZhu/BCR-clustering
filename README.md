@@ -31,6 +31,6 @@ To run clustering, please refer to files in /scripts/ directory.
 Clusters associated to an IGHV gene between participants of different groups can be displayed in a variety of ways using ggplot2:
 ![Image](/assets/CDRH3_cluster_expression_sample_1.png)
 ## *Project information*
-This project is created and developed by Henderson Zhu (for BCR clustering) and Caleb Batley (for TCR clustering) with the supervision of Dr. Daniel O'Connor and Dr. Irina Chelysheva at [Oxford Vaccine Group](https://www.ovg.ox.ac.uk/).
+This project is created and developed by Henderson Zhu (BCR clustering) and Caleb Batley (TCR clustering) with the supervision of Associate Professor Daniel O'Connor and Dr. Irina Chelysheva at [Oxford Vaccine Group](https://www.ovg.ox.ac.uk/).
 ## *References*
 Shugay M et al. VDJtools: Unifying Post-analysis of T Cell Receptor Repertoires. PLoS Comp Biol 2015; 11(11):e1004503-e1004503.

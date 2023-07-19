@@ -1,5 +1,5 @@
 # B-cell receptor (BCR) and T-cell receptor (TCR) repertoire clustering
-*Method to cluster some-what biologically similar B-cell and T-cell receptors by Hamming distance in R.*
+*Method to cluster biologically similar B-cell and T-cell receptors by Hamming distance in R.*
 
 ## *Introduction*
 The vast B-cell and T-cell repertoire data retrieved from RNA-seq would seem extremely diverse. It is convenient when biologically similar BCR and TCR can be classified and grouped as single entities to facilitate downsteam analysis. Hereby we proposed a method to cluster BCR and TCR with some-what similar CDR H3 amino acid sequences based on Hamming distance.
